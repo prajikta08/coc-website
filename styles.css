@@ -90,6 +90,7 @@ section{
 .hero-img{
   width: 700px;
   height: auto;
+  background: transparent;
 }
 .hero-text a{
   display: inline-block;
@@ -184,6 +185,7 @@ section{
   .hero-img img{
     width:100%;
     height: auto;
+    background: transparent;
   }
   .hero-text h1{
     font-size: 75px;
@@ -212,10 +214,12 @@ section{
   }
   .hero-img{
     text-align: center;
+    background: transparent;
   }
   .hero-img img{
     width: 560px;
     height: auto;
+    background: transparent;
   }
   .hero{
     height: 100%;
@@ -261,5 +265,6 @@ section{
   .hero-img{
     width: 100%;
     height: auto;
+    background: transparent;
   }
 }
