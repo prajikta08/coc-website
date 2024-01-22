@@ -2,3 +2,4 @@
 
 # Responsive web design 👽🐲
 This is just a simple front page design of COC, designed using html, css and javascript.
+https://prajikta08.github.io/coc-website/
